@@ -2,7 +2,7 @@
 
 This is a simplified version of the Histogram_NER_Haddop project.
 
-This project is a Hadoop implementation in Java of the named entities occurrences counted in tweets. For NER (Name Entity Recognition) has been used [lingPipe](http://alias-i.com/lingpipe/demos/tutorial/read-me.html) library.
+This project is a Hadoop implementation in Java of the named entities occurrences counted in tweets. For NER (Name Entity Recognition) has been used [LingPipe](http://alias-i.com/lingpipe/demos/tutorial/read-me.html) library.
 
 To run this project is necessary to give the right arguments:
 
